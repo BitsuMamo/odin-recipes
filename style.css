@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  /* padding: 0; */
+}
+body{
+  font-family: 'Times New Roman', Times, sans-serif;
+  text-align: center;
+}
+.title{
+  font-size: 2rem;
+}
+
+.list li{
+  font-size: 1.5rem;
+  text-decoration: none;
+  list-style: none;
+  font-weight: 400;
+}
+
+.food-image{
+  width: 500px;
+  height: auto;
+}
+
+.desc{
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.step{
+  text-align: left;
+}
+
+#recipe{
+  text-align: left;
+}
